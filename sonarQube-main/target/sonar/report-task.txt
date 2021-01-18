@@ -1,0 +1,6 @@
+projectKey=com:sonarcubedemo1
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com:sonarcubedemo1
+ceTaskId=AXcWoPq3aryG80bKq415
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXcWoPq3aryG80bKq415
