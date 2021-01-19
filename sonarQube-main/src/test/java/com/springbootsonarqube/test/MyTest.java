@@ -38,7 +38,7 @@ public class MyTest {
 	
 	@Test
 	public void validateSize() {
-		assertEquals(2,loginService.getAll().size());
+		assertEquals(1,loginService.getAll().size());
 		//assertEquals();
 		
 	}
